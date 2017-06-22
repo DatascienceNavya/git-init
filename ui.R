@@ -1,6 +1,4 @@
 library(shiny)
-runGitHub( "git-init", "DatascienceNavya") 
-
 
 # Define UI for miles per gallon application
 shinyUI(pageWithSidebar(
